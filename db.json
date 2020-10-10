@@ -1,0 +1,1021 @@
+{
+    "flights": {
+        "code": "200",
+        "message": "Successful",
+        "cacheKey": "b96c5d3a04a8eb1aa7e988c6aa996dd7-1595501679965",
+        "cacheSecond": 900000,
+        "complete": "true",
+        "tripType": 1,
+        "currencyCode": "USD",
+        "routings": {
+            "outward": [
+                {
+                    "totalDuration": 7500,
+                    "service": {
+                        "meal": 0,
+                        "baggage": "20 kg"
+                    },
+                    "rule": {
+                        "others": "Change allowed with fee / Refund allowed with fee"
+                    },
+                    "route": [
+                        {
+                            "statusCode": "HK",
+                            "layOverTime": 0,
+                            "flightIndicator": "",
+                            "duration": 7500,
+                            "departure": {
+                                "departureTime": "07:00",
+                                "departureDate": "2020-08-20",
+                                "airportName": "Yangon Intl",
+                                "airportCode": "RGN"
+                            },
+                            "class": "Economy Promo",
+                            "chargeType": "Foreigner",
+                            "carrier": {
+                                "flightNumber": "222",
+                                "airlineName": "Air KBZ",
+                                "airlineLogo": "https://cdn-sandbox.owaytrip.com/data/flight/logo/be2268c01180c5580c4be9a0c38c3686.png",
+                                "airlineCode": "K7"
+                            },
+                            "cabinClass": "V",
+                            "bookingClass": "",
+                            "arrival": {
+                                "arrivalTime": "Via",
+                                "arrivalDate": "2020-08-20",
+                                "airportName": "Bagan (Nyaung-U)",
+                                "airportCode": "NYU"
+                            }
+                        },
+                        {
+                            "statusCode": "HK",
+                            "layOverTime": 0,
+                            "flightIndicator": "",
+                            "duration": 7500,
+                            "departure": {
+                                "departureTime": "Via",
+                                "departureDate": "2020-08-20",
+                                "airportName": "Bagan (Nyaung-U)",
+                                "airportCode": "NYU"
+                            },
+                            "class": "Economy Promo",
+                            "chargeType": "Foreigner",
+                            "carrier": {
+                                "flightNumber": "222",
+                                "airlineName": "Air KBZ",
+                                "airlineLogo": "https://cdn-sandbox.owaytrip.com/data/flight/logo/be2268c01180c5580c4be9a0c38c3686.png",
+                                "airlineCode": "K7"
+                            },
+                            "cabinClass": "V",
+                            "bookingClass": "",
+                            "arrival": {
+                                "arrivalTime": "09:05",
+                                "arrivalDate": "2020-08-20",
+                                "airportName": "Mandalay Intl",
+                                "airportCode": "MDL"
+                            }
+                        }
+                    ],
+                    "referKey": "15955016831661-851",
+                    "refID": 464851,
+                    "rates": {
+                        "taxIncludeState": false,
+                        "inventory": {
+                            "currencyCode": "USD",
+                            "adult": {
+                                "tax": 33.99,
+                                "discount": 0,
+                                "base": 66.01
+                            },
+                            "child": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "infant": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "total": {
+                                "base": 66.01,
+                                "tax": 33.99,
+                                "discount": 0
+                            }
+                        },
+                        "deal": {
+                            "currencyCode": "USD",
+                            "adult": {
+                                "tax": 33.99,
+                                "discount": 0,
+                                "base": 66.01
+                            },
+                            "child": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "infant": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "total": {
+                                "base": 66.01,
+                                "tax": 33.99,
+                                "discount": 0
+                            }
+                        }
+                    },
+                    "outwardID": "Itin_2",
+                    "deeplink": "https://development.owaytrip.com/flights/confirm/b96c5d3a04a8eb1aa7e988c6aa996dd7-1595501679965/15955016831661-851/1/NUxwS1VDMXRSa1BzMGhQdTR2Q0o0dz09OjpAZ9s/94y28VC7QYXditeV/1/0/0",
+                    "availableseat": "",
+                    "moreFares": [
+                        {
+                            "totalDuration": 7500,
+                            "service": {
+                                "meal": 0,
+                                "baggage": "20 kg"
+                            },
+                            "rule": {
+                                "others": "Change allowed with fee / Refund allowed with fee"
+                            },
+                            "route": [
+                                {
+                                    "statusCode": "HK",
+                                    "layOverTime": 0,
+                                    "flightIndicator": "",
+                                    "duration": 7500,
+                                    "departure": {
+                                        "departureTime": "07:00",
+                                        "departureDate": "2020-08-20",
+                                        "airportName": "Yangon Intl",
+                                        "airportCode": "RGN"
+                                    },
+                                    "class": "Economy Flexi",
+                                    "chargeType": "Foreigner",
+                                    "carrier": {
+                                        "flightNumber": "222",
+                                        "airlineName": "Air KBZ",
+                                        "airlineLogo": "https://cdn-sandbox.owaytrip.com/data/flight/logo/be2268c01180c5580c4be9a0c38c3686.png",
+                                        "airlineCode": "K7"
+                                    },
+                                    "cabinClass": "B",
+                                    "bookingClass": "",
+                                    "arrival": {
+                                        "arrivalTime": "Via",
+                                        "arrivalDate": "2020-08-20",
+                                        "airportName": "Bagan (Nyaung-U)",
+                                        "airportCode": "NYU"
+                                    }
+                                },
+                                {
+                                    "statusCode": "HK",
+                                    "layOverTime": 0,
+                                    "flightIndicator": "",
+                                    "duration": 7500,
+                                    "departure": {
+                                        "departureTime": "Via",
+                                        "departureDate": "2020-08-20",
+                                        "airportName": "Bagan (Nyaung-U)",
+                                        "airportCode": "NYU"
+                                    },
+                                    "class": "Economy Flexi",
+                                    "chargeType": "Foreigner",
+                                    "carrier": {
+                                        "flightNumber": "222",
+                                        "airlineName": "Air KBZ",
+                                        "airlineLogo": "https://cdn-sandbox.owaytrip.com/data/flight/logo/be2268c01180c5580c4be9a0c38c3686.png",
+                                        "airlineCode": "K7"
+                                    },
+                                    "cabinClass": "B",
+                                    "bookingClass": "",
+                                    "arrival": {
+                                        "arrivalTime": "09:05",
+                                        "arrivalDate": "2020-08-20",
+                                        "airportName": "Mandalay Intl",
+                                        "airportCode": "MDL"
+                                    }
+                                }
+                            ],
+                            "referKey": "15955016831580-851",
+                            "refID": 464851,
+                            "rates": {
+                                "taxIncludeState": false,
+                                "inventory": {
+                                    "currencyCode": "USD",
+                                    "adult": {
+                                        "tax": 33.99,
+                                        "discount": 0,
+                                        "base": 88.01
+                                    },
+                                    "child": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "infant": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "total": {
+                                        "base": 88.01,
+                                        "tax": 33.99,
+                                        "discount": 0
+                                    }
+                                },
+                                "deal": {
+                                    "currencyCode": "USD",
+                                    "adult": {
+                                        "tax": 33.99,
+                                        "discount": 0,
+                                        "base": 88.01
+                                    },
+                                    "child": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "infant": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "total": {
+                                        "base": 88.01,
+                                        "tax": 33.99,
+                                        "discount": 0
+                                    }
+                                }
+                            },
+                            "outwardID": "Itin_1",
+                            "deeplink": "https://development.owaytrip.com/flights/confirm/b96c5d3a04a8eb1aa7e988c6aa996dd7-1595501679965/15955016831580-851/1/QzlJL2thVnBWZGtyZitoVzRDdVJFZz09Ojqnf8T3u/Q0Nmja264SQ9uj/1/0/0",
+                            "availableseat": ""
+                        }
+                    ]
+                },
+                {
+                    "totalDuration": 5100,
+                    "service": {
+                        "meal": 0,
+                        "baggage": "20 kg"
+                    },
+                    "rule": {
+                        "others": "Change allowed with fee / Refund allowed with fee"
+                    },
+                    "route": [
+                        {
+                            "statusCode": "HK",
+                            "layOverTime": 0,
+                            "flightIndicator": "",
+                            "duration": 5100,
+                            "departure": {
+                                "departureTime": "07:15",
+                                "departureDate": "2020-08-20",
+                                "airportName": "Yangon Intl",
+                                "airportCode": "RGN"
+                            },
+                            "class": "Economy Promo",
+                            "chargeType": "Foreigner",
+                            "carrier": {
+                                "flightNumber": "208",
+                                "airlineName": "Air KBZ",
+                                "airlineLogo": "https://cdn-sandbox.owaytrip.com/data/flight/logo/be2268c01180c5580c4be9a0c38c3686.png",
+                                "airlineCode": "K7"
+                            },
+                            "cabinClass": "V",
+                            "bookingClass": "",
+                            "arrival": {
+                                "arrivalTime": "08:40",
+                                "arrivalDate": "2020-08-20",
+                                "airportName": "Mandalay Intl",
+                                "airportCode": "MDL"
+                            }
+                        }
+                    ],
+                    "referKey": "15955016831793-851",
+                    "refID": 461851,
+                    "rates": {
+                        "taxIncludeState": false,
+                        "inventory": {
+                            "currencyCode": "USD",
+                            "adult": {
+                                "tax": 33.99,
+                                "discount": 0,
+                                "base": 66.01
+                            },
+                            "child": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "infant": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "total": {
+                                "base": 66.01,
+                                "tax": 33.99,
+                                "discount": 0
+                            }
+                        },
+                        "deal": {
+                            "currencyCode": "USD",
+                            "adult": {
+                                "tax": 33.99,
+                                "discount": 0,
+                                "base": 66.01
+                            },
+                            "child": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "infant": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "total": {
+                                "base": 66.01,
+                                "tax": 33.99,
+                                "discount": 0
+                            }
+                        }
+                    },
+                    "outwardID": "Itin_4",
+                    "deeplink": "https://development.owaytrip.com/flights/confirm/b96c5d3a04a8eb1aa7e988c6aa996dd7-1595501679965/15955016831793-851/1/ckxHWVlLQUZJRFpRem5OQ3liWkh2UT09OjqWkkAbe6sdkzl+cAsq1ul+/1/0/0",
+                    "availableseat": "",
+                    "moreFares": [
+                        {
+                            "totalDuration": 5100,
+                            "service": {
+                                "meal": 0,
+                                "baggage": "20 kg"
+                            },
+                            "rule": {
+                                "others": "Change allowed with fee / Refund allowed with fee"
+                            },
+                            "route": [
+                                {
+                                    "statusCode": "HK",
+                                    "layOverTime": 0,
+                                    "flightIndicator": "",
+                                    "duration": 5100,
+                                    "departure": {
+                                        "departureTime": "07:15",
+                                        "departureDate": "2020-08-20",
+                                        "airportName": "Yangon Intl",
+                                        "airportCode": "RGN"
+                                    },
+                                    "class": "Economy Flexi",
+                                    "chargeType": "Foreigner",
+                                    "carrier": {
+                                        "flightNumber": "208",
+                                        "airlineName": "Air KBZ",
+                                        "airlineLogo": "https://cdn-sandbox.owaytrip.com/data/flight/logo/be2268c01180c5580c4be9a0c38c3686.png",
+                                        "airlineCode": "K7"
+                                    },
+                                    "cabinClass": "B",
+                                    "bookingClass": "",
+                                    "arrival": {
+                                        "arrivalTime": "08:40",
+                                        "arrivalDate": "2020-08-20",
+                                        "airportName": "Mandalay Intl",
+                                        "airportCode": "MDL"
+                                    }
+                                }
+                            ],
+                            "referKey": "15955016831742-851",
+                            "refID": 461851,
+                            "rates": {
+                                "taxIncludeState": false,
+                                "inventory": {
+                                    "currencyCode": "USD",
+                                    "adult": {
+                                        "tax": 33.99,
+                                        "discount": 0,
+                                        "base": 88.01
+                                    },
+                                    "child": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "infant": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "total": {
+                                        "base": 88.01,
+                                        "tax": 33.99,
+                                        "discount": 0
+                                    }
+                                },
+                                "deal": {
+                                    "currencyCode": "USD",
+                                    "adult": {
+                                        "tax": 33.99,
+                                        "discount": 0,
+                                        "base": 88.01
+                                    },
+                                    "child": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "infant": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "total": {
+                                        "base": 88.01,
+                                        "tax": 33.99,
+                                        "discount": 0
+                                    }
+                                }
+                            },
+                            "outwardID": "Itin_3",
+                            "deeplink": "https://development.owaytrip.com/flights/confirm/b96c5d3a04a8eb1aa7e988c6aa996dd7-1595501679965/15955016831742-851/1/WWg3Z1A2ZExvQlZkYmE2WDlvZFdadz09OjohC4AffJSVNU6woA2up90W/1/0/0",
+                            "availableseat": ""
+                        }
+                    ]
+                },
+                {
+                    "totalDuration": 5100,
+                    "service": {
+                        "meal": 0,
+                        "baggage": "20 kg"
+                    },
+                    "rule": {
+                        "others": "Change allowed with fee / Refund allowed with fee"
+                    },
+                    "route": [
+                        {
+                            "statusCode": "HK",
+                            "layOverTime": 0,
+                            "flightIndicator": "",
+                            "duration": 5100,
+                            "departure": {
+                                "departureTime": "11:30",
+                                "departureDate": "2020-08-20",
+                                "airportName": "Yangon Intl",
+                                "airportCode": "RGN"
+                            },
+                            "class": "Economy Promo",
+                            "chargeType": "Foreigner",
+                            "carrier": {
+                                "flightNumber": "226",
+                                "airlineName": "Air KBZ",
+                                "airlineLogo": "https://cdn-sandbox.owaytrip.com/data/flight/logo/be2268c01180c5580c4be9a0c38c3686.png",
+                                "airlineCode": "K7"
+                            },
+                            "cabinClass": "V",
+                            "bookingClass": "",
+                            "arrival": {
+                                "arrivalTime": "12:55",
+                                "arrivalDate": "2020-08-20",
+                                "airportName": "Mandalay Intl",
+                                "airportCode": "MDL"
+                            }
+                        }
+                    ],
+                    "referKey": "15955016831854-851",
+                    "refID": 462851,
+                    "rates": {
+                        "taxIncludeState": false,
+                        "inventory": {
+                            "currencyCode": "USD",
+                            "adult": {
+                                "tax": 33.99,
+                                "discount": 0,
+                                "base": 66.01
+                            },
+                            "child": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "infant": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "total": {
+                                "base": 66.01,
+                                "tax": 33.99,
+                                "discount": 0
+                            }
+                        },
+                        "deal": {
+                            "currencyCode": "USD",
+                            "adult": {
+                                "tax": 33.99,
+                                "discount": 0,
+                                "base": 66.01
+                            },
+                            "child": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "infant": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "total": {
+                                "base": 66.01,
+                                "tax": 33.99,
+                                "discount": 0
+                            }
+                        }
+                    },
+                    "outwardID": "Itin_5",
+                    "deeplink": "https://development.owaytrip.com/flights/confirm/b96c5d3a04a8eb1aa7e988c6aa996dd7-1595501679965/15955016831854-851/1/NTI5MkJuaW11TnBqLzJKRSthQU8wdz09OjpBFd0cJVbFNGBatl54Fe0Y/1/0/0",
+                    "availableseat": "",
+                    "moreFares": [
+                        {
+                            "totalDuration": 5100,
+                            "service": {
+                                "meal": 0,
+                                "baggage": "20 kg"
+                            },
+                            "rule": {
+                                "others": "Change allowed with fee / Refund allowed with fee"
+                            },
+                            "route": [
+                                {
+                                    "statusCode": "HK",
+                                    "layOverTime": 0,
+                                    "flightIndicator": "",
+                                    "duration": 5100,
+                                    "departure": {
+                                        "departureTime": "11:30",
+                                        "departureDate": "2020-08-20",
+                                        "airportName": "Yangon Intl",
+                                        "airportCode": "RGN"
+                                    },
+                                    "class": "Economy Flexi",
+                                    "chargeType": "Foreigner",
+                                    "carrier": {
+                                        "flightNumber": "226",
+                                        "airlineName": "Air KBZ",
+                                        "airlineLogo": "https://cdn-sandbox.owaytrip.com/data/flight/logo/be2268c01180c5580c4be9a0c38c3686.png",
+                                        "airlineCode": "K7"
+                                    },
+                                    "cabinClass": "B",
+                                    "bookingClass": "",
+                                    "arrival": {
+                                        "arrivalTime": "12:55",
+                                        "arrivalDate": "2020-08-20",
+                                        "airportName": "Mandalay Intl",
+                                        "airportCode": "MDL"
+                                    }
+                                }
+                            ],
+                            "referKey": "15955016831915-851",
+                            "refID": 462851,
+                            "rates": {
+                                "taxIncludeState": false,
+                                "inventory": {
+                                    "currencyCode": "USD",
+                                    "adult": {
+                                        "tax": 33.99,
+                                        "discount": 0,
+                                        "base": 88.01
+                                    },
+                                    "child": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "infant": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "total": {
+                                        "base": 88.01,
+                                        "tax": 33.99,
+                                        "discount": 0
+                                    }
+                                },
+                                "deal": {
+                                    "currencyCode": "USD",
+                                    "adult": {
+                                        "tax": 33.99,
+                                        "discount": 0,
+                                        "base": 88.01
+                                    },
+                                    "child": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "infant": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "total": {
+                                        "base": 88.01,
+                                        "tax": 33.99,
+                                        "discount": 0
+                                    }
+                                }
+                            },
+                            "outwardID": "Itin_6",
+                            "deeplink": "https://development.owaytrip.com/flights/confirm/b96c5d3a04a8eb1aa7e988c6aa996dd7-1595501679965/15955016831915-851/1/bFhhMHgxSnFQUlM0RmhueVpCd21ndz09OjpCKDoGJeyJFgI6xEkyQ4h6/1/0/0",
+                            "availableseat": ""
+                        }
+                    ]
+                },
+                {
+                    "totalDuration": 5100,
+                    "service": {
+                        "meal": 0,
+                        "baggage": "20 kg"
+                    },
+                    "rule": {
+                        "others": "Change allowed with fee / Refund allowed with fee"
+                    },
+                    "route": [
+                        {
+                            "statusCode": "HK",
+                            "layOverTime": 0,
+                            "flightIndicator": "",
+                            "duration": 5100,
+                            "departure": {
+                                "departureTime": "13:00",
+                                "departureDate": "2020-08-20",
+                                "airportName": "Yangon Intl",
+                                "airportCode": "RGN"
+                            },
+                            "class": "Economy Promo",
+                            "chargeType": "Foreigner",
+                            "carrier": {
+                                "flightNumber": "622",
+                                "airlineName": "Air KBZ",
+                                "airlineLogo": "https://cdn-sandbox.owaytrip.com/data/flight/logo/be2268c01180c5580c4be9a0c38c3686.png",
+                                "airlineCode": "K7"
+                            },
+                            "cabinClass": "V",
+                            "bookingClass": "",
+                            "arrival": {
+                                "arrivalTime": "14:25",
+                                "arrivalDate": "2020-08-20",
+                                "airportName": "Mandalay Intl",
+                                "airportCode": "MDL"
+                            }
+                        }
+                    ],
+                    "referKey": "15955016832027-851",
+                    "refID": 460851,
+                    "rates": {
+                        "taxIncludeState": false,
+                        "inventory": {
+                            "currencyCode": "USD",
+                            "adult": {
+                                "tax": 33.99,
+                                "discount": 0,
+                                "base": 66.01
+                            },
+                            "child": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "infant": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "total": {
+                                "base": 66.01,
+                                "tax": 33.99,
+                                "discount": 0
+                            }
+                        },
+                        "deal": {
+                            "currencyCode": "USD",
+                            "adult": {
+                                "tax": 33.99,
+                                "discount": 0,
+                                "base": 66.01
+                            },
+                            "child": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "infant": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "total": {
+                                "base": 66.01,
+                                "tax": 33.99,
+                                "discount": 0
+                            }
+                        }
+                    },
+                    "outwardID": "Itin_8",
+                    "deeplink": "https://development.owaytrip.com/flights/confirm/b96c5d3a04a8eb1aa7e988c6aa996dd7-1595501679965/15955016832027-851/1/aFcrZUIwUUoyY2RRbTlOc3BEMlhrUT09OjriEu9QGz0pzKlm9mUS5/di/1/0/0",
+                    "availableseat": "",
+                    "moreFares": [
+                        {
+                            "totalDuration": 5100,
+                            "service": {
+                                "meal": 0,
+                                "baggage": "20 kg"
+                            },
+                            "rule": {
+                                "others": "Change allowed with fee / Refund allowed with fee"
+                            },
+                            "route": [
+                                {
+                                    "statusCode": "HK",
+                                    "layOverTime": 0,
+                                    "flightIndicator": "",
+                                    "duration": 5100,
+                                    "departure": {
+                                        "departureTime": "13:00",
+                                        "departureDate": "2020-08-20",
+                                        "airportName": "Yangon Intl",
+                                        "airportCode": "RGN"
+                                    },
+                                    "class": "Economy Flexi",
+                                    "chargeType": "Foreigner",
+                                    "carrier": {
+                                        "flightNumber": "622",
+                                        "airlineName": "Air KBZ",
+                                        "airlineLogo": "https://cdn-sandbox.owaytrip.com/data/flight/logo/be2268c01180c5580c4be9a0c38c3686.png",
+                                        "airlineCode": "K7"
+                                    },
+                                    "cabinClass": "B",
+                                    "bookingClass": "",
+                                    "arrival": {
+                                        "arrivalTime": "14:25",
+                                        "arrivalDate": "2020-08-20",
+                                        "airportName": "Mandalay Intl",
+                                        "airportCode": "MDL"
+                                    }
+                                }
+                            ],
+                            "referKey": "15955016831976-851",
+                            "refID": 460851,
+                            "rates": {
+                                "taxIncludeState": false,
+                                "inventory": {
+                                    "currencyCode": "USD",
+                                    "adult": {
+                                        "tax": 33.99,
+                                        "discount": 0,
+                                        "base": 88.01
+                                    },
+                                    "child": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "infant": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "total": {
+                                        "base": 88.01,
+                                        "tax": 33.99,
+                                        "discount": 0
+                                    }
+                                },
+                                "deal": {
+                                    "currencyCode": "USD",
+                                    "adult": {
+                                        "tax": 33.99,
+                                        "discount": 0,
+                                        "base": 88.01
+                                    },
+                                    "child": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "infant": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "total": {
+                                        "base": 88.01,
+                                        "tax": 33.99,
+                                        "discount": 0
+                                    }
+                                }
+                            },
+                            "outwardID": "Itin_7",
+                            "deeplink": "https://development.owaytrip.com/flights/confirm/b96c5d3a04a8eb1aa7e988c6aa996dd7-1595501679965/15955016831976-851/1/ekMxUFhUNm5KNWlZeUtUS2NIZ1FLdz09OjrnTBZT6SJsgBT+7/ucGH2h/1/0/0",
+                            "availableseat": ""
+                        }
+                    ]
+                },
+                {
+                    "totalDuration": 5100,
+                    "service": {
+                        "meal": 0,
+                        "baggage": "20 kg"
+                    },
+                    "rule": {
+                        "others": "Change allowed with fee / Refund allowed with fee"
+                    },
+                    "route": [
+                        {
+                            "statusCode": "HK",
+                            "layOverTime": 0,
+                            "flightIndicator": "",
+                            "duration": 5100,
+                            "departure": {
+                                "departureTime": "18:15",
+                                "departureDate": "2020-08-20",
+                                "airportName": "Yangon Intl",
+                                "airportCode": "RGN"
+                            },
+                            "class": "Economy Promo",
+                            "chargeType": "Foreigner",
+                            "carrier": {
+                                "flightNumber": "204",
+                                "airlineName": "Air KBZ",
+                                "airlineLogo": "https://cdn-sandbox.owaytrip.com/data/flight/logo/be2268c01180c5580c4be9a0c38c3686.png",
+                                "airlineCode": "K7"
+                            },
+                            "cabinClass": "V",
+                            "bookingClass": "",
+                            "arrival": {
+                                "arrivalTime": "19:40",
+                                "arrivalDate": "2020-08-20",
+                                "airportName": "Mandalay Intl",
+                                "airportCode": "MDL"
+                            }
+                        }
+                    ],
+                    "referKey": "15955016832149-851",
+                    "refID": 463851,
+                    "rates": {
+                        "taxIncludeState": false,
+                        "inventory": {
+                            "currencyCode": "USD",
+                            "adult": {
+                                "tax": 33.99,
+                                "discount": 0,
+                                "base": 66.01
+                            },
+                            "child": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "infant": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "total": {
+                                "base": 66.01,
+                                "tax": 33.99,
+                                "discount": 0
+                            }
+                        },
+                        "deal": {
+                            "currencyCode": "USD",
+                            "adult": {
+                                "tax": 33.99,
+                                "discount": 0,
+                                "base": 66.01
+                            },
+                            "child": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "infant": {
+                                "tax": 0,
+                                "discount": 0,
+                                "base": 0
+                            },
+                            "total": {
+                                "base": 66.01,
+                                "tax": 33.99,
+                                "discount": 0
+                            }
+                        }
+                    },
+                    "outwardID": "Itin_10",
+                    "deeplink": "https://development.owaytrip.com/flights/confirm/b96c5d3a04a8eb1aa7e988c6aa996dd7-1595501679965/15955016832149-851/1/WWdBSlQxSkVxKzFFeDlsdnorRDcvZz09Ojr+6fonXhIfmo8/nmN8Rjq3/1/0/0",
+                    "availableseat": "",
+                    "moreFares": [
+                        {
+                            "totalDuration": 5100,
+                            "service": {
+                                "meal": 0,
+                                "baggage": "20 kg"
+                            },
+                            "rule": {
+                                "others": "Change allowed with fee / Refund allowed with fee"
+                            },
+                            "route": [
+                                {
+                                    "statusCode": "HK",
+                                    "layOverTime": 0,
+                                    "flightIndicator": "",
+                                    "duration": 5100,
+                                    "departure": {
+                                        "departureTime": "18:15",
+                                        "departureDate": "2020-08-20",
+                                        "airportName": "Yangon Intl",
+                                        "airportCode": "RGN"
+                                    },
+                                    "class": "Economy Flexi",
+                                    "chargeType": "Foreigner",
+                                    "carrier": {
+                                        "flightNumber": "204",
+                                        "airlineName": "Air KBZ",
+                                        "airlineLogo": "https://cdn-sandbox.owaytrip.com/data/flight/logo/be2268c01180c5580c4be9a0c38c3686.png",
+                                        "airlineCode": "K7"
+                                    },
+                                    "cabinClass": "B",
+                                    "bookingClass": "",
+                                    "arrival": {
+                                        "arrivalTime": "19:40",
+                                        "arrivalDate": "2020-08-20",
+                                        "airportName": "Mandalay Intl",
+                                        "airportCode": "MDL"
+                                    }
+                                }
+                            ],
+                            "referKey": "15955016832088-851",
+                            "refID": 463851,
+                            "rates": {
+                                "taxIncludeState": false,
+                                "inventory": {
+                                    "currencyCode": "USD",
+                                    "adult": {
+                                        "tax": 33.99,
+                                        "discount": 0,
+                                        "base": 88.01
+                                    },
+                                    "child": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "infant": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "total": {
+                                        "base": 88.01,
+                                        "tax": 33.99,
+                                        "discount": 0
+                                    }
+                                },
+                                "deal": {
+                                    "currencyCode": "USD",
+                                    "adult": {
+                                        "tax": 33.99,
+                                        "discount": 0,
+                                        "base": 88.01
+                                    },
+                                    "child": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "infant": {
+                                        "tax": 0,
+                                        "discount": 0,
+                                        "base": 0
+                                    },
+                                    "total": {
+                                        "base": 88.01,
+                                        "tax": 33.99,
+                                        "discount": 0
+                                    }
+                                }
+                            },
+                            "outwardID": "Itin_9",
+                            "deeplink": "https://development.owaytrip.com/flights/confirm/b96c5d3a04a8eb1aa7e988c6aa996dd7-1595501679965/15955016832088-851/1/dTgxTFVOd1N0YTNHTFdaQmdCcmFIUT09Ojoku67K4YmYrMrsJ8eYBMpa/1/0/0",
+                            "availableseat": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
